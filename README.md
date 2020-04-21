@@ -1,1 +1,1 @@
-Режим вывода команд на экран (ECHO) включен.
+It can help you for search something very quick
